@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nashedtuned.co.za/sitemap.xml
